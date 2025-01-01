@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prashantdcoder
 - 👀 I’m interested in JVM stack
-- 🌱 I’m currently learning Kotlin and React
 - 💞️ I’m looking to collaborate on Java + React jobs
 
 <!---
